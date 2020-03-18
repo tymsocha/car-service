@@ -1,4 +1,4 @@
-package com.carservice.modules.weather.dtos.weatherdto;
+package com.carservice.modules.weather.domain.dtos.weatherdto;
 
 import lombok.AllArgsConstructor;
 import lombok.Getter;

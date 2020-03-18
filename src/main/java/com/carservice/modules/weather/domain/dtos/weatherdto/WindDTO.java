@@ -1,4 +1,4 @@
-package com.carservice.modules.weather.dtos.weatherdto;
+package com.carservice.modules.weather.domain.dtos.weatherdto;
 
 import lombok.AllArgsConstructor;
 import lombok.Getter;
@@ -7,6 +7,7 @@ import lombok.NoArgsConstructor;
 @Getter
 @AllArgsConstructor
 @NoArgsConstructor
-public class CloudsDTO {
-    long all;
+public class WindDTO {
+    double speed;
+    long deg;
 }

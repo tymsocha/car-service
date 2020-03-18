@@ -1,6 +1,6 @@
-package com.carservice.modules.weather.dtos;
+package com.carservice.modules.weather.domain.dtos;
 
-import com.carservice.modules.weather.dtos.weatherdto.WeatherDTO;
+import com.carservice.modules.weather.domain.dtos.weatherdto.WeatherDTO;
 import lombok.*;
 
 @Getter

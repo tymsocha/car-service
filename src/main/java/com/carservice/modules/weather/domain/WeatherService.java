@@ -1,7 +1,7 @@
 package com.carservice.modules.weather.domain;
 
-import com.carservice.modules.weather.dtos.SimplifiedWeatherDTO;
-import com.carservice.modules.weather.dtos.weatherdto.WeatherDTO;
+import com.carservice.modules.weather.domain.dtos.SimplifiedWeatherDTO;
+import com.carservice.modules.weather.domain.dtos.weatherdto.WeatherDTO;
 import com.carservice.utils.WeatherApiConstans;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.beans.factory.annotation.Value;
